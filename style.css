@@ -17,11 +17,14 @@ section
     text-align: center;
     align-items: center;
     background: #000;
+    background-image: url("images/IMG_2078.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 section .content
 {
     max-width: 80%;
-    color: #fff;
+    color: #000;
 }
 section .content h2
 {
@@ -29,7 +32,7 @@ section .content h2
 }
 section .content p
 {
-    font-size: 1.2em;
+    font-size: 2.5em;
 }
 img {
     border: 1px solid #ddd;
