@@ -1,3 +1,7 @@
+html
+{
+    min-height: 100%;
+}
 *
 {
     margin: 0;
@@ -15,14 +19,11 @@ section
     display: flex;
     justify-content: center;
     text-align: center;
-    align-items: center;
-    background: #000;
-    background-image: url("images/IMG_2078.JPG");
-    background-repeat: no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    align-items: top;
+    background: #fff;
+    background-image: url("images/Liermanns.JPG");
+    background-repeat: repeat-x;
+    background-size: auto;
 }
 section .content
 {
