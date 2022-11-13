@@ -18,7 +18,10 @@ section
     align-items: center;
     background: #000;
     background-image: url("images/IMG_2078.JPG");
-    background-repeat: no-repeat;
+    background-repeat: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
 }
 section .content
